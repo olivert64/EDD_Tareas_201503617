@@ -1,0 +1,73 @@
+digraph Graphic{
+		nodo_0[
+		shape="tab"
+		style="filled"
+		fillcolor="orange"
+		fontsize=20
+		label="Marvin
+    Martinez
+      Marvin25ronal
+    Jugar apex"
+		];
+		nodo_0->		nodo_1;
+		nodo_1[
+		shape="tab"
+		style="filled"
+		fillcolor="orange"
+		fontsize=20
+		label="Yaiza
+    Pineda
+      Bambi
+    Patinar"
+		];
+		nodo_1->		nodo_0;
+		nodo_1->		nodo_2;
+		nodo_2[
+		shape="tab"
+		style="filled"
+		fillcolor="orange"
+		fontsize=20
+		label="Jonathan
+    Lopez
+      Pancho
+    Comer"
+		];
+		nodo_2->		nodo_1;
+		nodo_2->		nodo_3;
+		nodo_3[
+		shape="tab"
+		style="filled"
+		fillcolor="orange"
+		fontsize=20
+		label="usuario1
+    bla
+      bla
+    Jugar apex"
+		];
+		nodo_3->		nodo_2;
+		nodo_3->		nodo_4;
+		nodo_4[
+		shape="tab"
+		style="filled"
+		fillcolor="orange"
+		fontsize=20
+		label="usuario2
+    bla
+      bla
+    Jugar apex"
+		];
+		nodo_4->		nodo_3;
+		nodo_4->		nodo_5;
+		nodo_5[
+		shape="tab"
+		style="filled"
+		fillcolor="orange"
+		fontsize=20
+		label="usuario3
+    sale edd
+      vamos con todo
+    100 en la fase 1"
+		];
+		nodo_5->		nodo_4;
+ }
+}
