@@ -1,0 +1,10 @@
+----------------Errores---------------------
+
+----------------Comentarios-----------------
+1. Muy limpio el codigo
+
+Preorder    30/30
+Inorder     30/30
+PostOrder   30/30
+Arbol       10/10
+Total 		100 
